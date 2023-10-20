@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mutahar-hussain">
-    <img src="https://icons8.com/icon/64154/linkedin" alt="LinkedIn" width="40" height="40">
+    <img src="fa-solid" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://github.com/mutahar-khokhar">
     <img src="https://icons8.com/icon/118557/github" alt="GitHub" width="40" height="40">
