@@ -29,6 +29,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mutahar-hussain" style="background-color: #0077B5; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 10px;">LinkedIn</a>
-  <a href="https://github.com/mutahar-khokhar" style="background-color: #333; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 10px;">GitHub</a>
+  <a href="https://www.linkedin.com/in/mutahar-hussain">
+    <img src="https://icons8.com/icon/64154/linkedin" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="https://github.com/mutahar-khokhar">
+    <img src="https://icons8.com/icon/118557/github" alt="GitHub" width="40" height="40">
+  </a>
 </p>
+
