@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/39952115da.js" crossorigin="anonymous"></script>
 <h1 align="center"><b>Data Analyst</b> | <i>Data Science | Python Enthusiast</i></h1>
 
 <p align="center">
