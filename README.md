@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/39952115da.js" crossorigin="anonymous"></script>
 <h1 align="center"><b>Data Analyst</b> | <i>Data Science | Python Enthusiast</i></h1>
 
 <p align="center">
@@ -30,11 +29,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mutahar-hussain">
-    <img src="fa-solid" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://github.com/mutahar-khokhar">
-    <img src="https://icons8.com/icon/118557/github" alt="GitHub" width="40" height="40">
-  </a>
+  [LinkedIn](https://www.linkedin.com/in/mutahar-hussain) | [GitHub](https://github.com/mutahar-khokhar)
 </p>
-
