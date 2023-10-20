@@ -1,23 +1,33 @@
-<p align="center"><img src="your-profile-image-url" alt="Your Name" height="150px"></p>
-
-<h1 align="center"><b>Data Alchemist</b> | <i>Data Analysis | Python Enthusiast</i></h1>
+<h1 align="center"><b>Data Analyst</b> | <i>Data Science | Python Enthusiast</i></h1>
 
 <p align="center">
-  📈 Experienced professional with a passion for transforming data into actionable insights. A maestro in the art of <b>data analysis</b> and the science of <b>predictive modeling</b>.
+  📊 I am a seasoned <b>Data Analyst</b> with a meticulous eye for detail and a passion for transforming raw data into actionable insights.
 </p>
 
 <p align="center">
-  💼 In my alchemical laboratory, I master the craft of <b>data cleansing</b> to reveal the hidden gems within. I wield the brushes of <b>data visualization</b> to paint the stories that numbers tell.
+  📈 My expertise lies in <b>data analysis</b>, <b>predictive modeling</b>, and crafting <b>data-driven solutions</b>. I believe that data tells a story and I'm here to translate it.
 </p>
 
 <p align="center">
-  🎯 I'm on a quest for the elusive elixir of <b>data-driven decision-making</b. With the power of <i>Python</i>, I conjure solutions to perplexing problems.
+  📉 With a keen sense for patterns and a love for numbers, I specialize in <b>data cleansing</b> and crafting compelling <b>data visualizations</b> to communicate complex information effectively.
 </p>
 
 <p align="center">
-  🚀 I thrive on challenges and relentless experimentation. My journey is a perpetual quest for knowledge, and I'm always eager to <i>collaborate</i> on data-inspired ventures.
+  🚀 Python is my primary tool, empowering me to unlock the potential of data and reveal insights that steer well-informed decisions.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mutahar-hussain/"><img src="linkedin-icon.png" alt="LinkedIn Profile" width="30px"></a> | <a href="https://github.com/yourgithubprofile"><img src="github-icon.png" alt="GitHub Profile" width="30px"></a> | <a href="your-portfolio-website"><img src="portfolio-icon.png" alt="Portfolio" width="30px"></a>
+  💼 Experienced in the language of data, I am fluent in interpreting trends, insights, and analytics. My journey is marked by unwavering curiosity and the drive to solve complex data puzzles.
+</p>
+
+<p align="center">
+  🌐 I'm always open to <i>collaborate</i> on data-driven projects that challenge the status quo and push the boundaries of what data can do.
+</p>
+
+<p align="center">
+  📚 When I'm not deciphering data, I explore new technologies, expand my knowledge, and savor the wonders of the world.
+</p>
+
+<p align="center">
+  🌐 [LinkedIn](https://www.linkedin.com/in/mutahar-hussain) | [GitHub](https://github.com/mutahar-khokhar)
 </p>
