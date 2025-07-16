@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📈 My expertise lies in <b>data analysis</b>, <b>predictive modeling</b>, and crafting <b>data-driven solutions</b>. I believe that data tells a story and I'm here to translate it.
+  📈 My expertise lies in <b>data analysis</b>, <b>predictive modeling</b> and crafting <b>data-driven solutions</b>. I believe that data tells a story and I'm here to tell the tale it.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  💼 Experienced in the language of data, I am fluent in interpreting trends, insights, and analytics. My journey is marked by unwavering curiosity and the drive to solve complex data puzzles.
+  💼 Experienced in the language of data, I am fluent in interpreting trends, insights and analytics. My journey is marked by unwavering curiosity and the drive to solve complex data puzzles.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  📚 When I'm not deciphering data, I explore new technologies, expand my knowledge, and savor the wonders of the world.
+  📚 When I'm not deciphering data, I explore new technologies, expand my knowledge and savor the wonders of the world.
 </p>
 
 <p align="center">
